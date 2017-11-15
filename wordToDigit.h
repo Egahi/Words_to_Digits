@@ -2,8 +2,6 @@
 #define _WORDTODIGIT_H_
 
 #define RANGE 200
-#define UPPERCASEMIN 65
-#define UPPERCASEMAX 91
 #define DIFFERENCE 32
 #define DIGITS 15
 #define HUNDRED 100
