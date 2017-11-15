@@ -1,7 +1,7 @@
 /**
- * Word-to-numbers.cpp
+ * Words_to_digits.cpp
  *
- * this program takes in a number words,
+ * this program takes in a number in words,
  * and outputs it in digits.
  *
  * @s_egahi
